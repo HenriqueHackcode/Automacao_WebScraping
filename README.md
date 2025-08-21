@@ -7,3 +7,5 @@
 
 
 » Principais Frameworks: Selenium, Webdriver, Pandas, Win32 e Time
+
+OBS: O projeto foi feito usando ide jupyter-notebook.
