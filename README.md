@@ -6,6 +6,7 @@
 » Caso queira testar o script em busca de outros produtos, basta mudar o nome dos produtos no arquivo buscas.xlsx e alterar o preço min e max, e claro altere o endereço do email no script para receber os links de ofertas.
 
 
-» Principais Frameworks: Selenium, Webdriver, Pandas, Win32 e Time
+» Principais Frameworks: Selenium, Webdriver e Pandas
+» Todas as bibliotecas se encontram no arquivo "requirements.txt"
 
 OBS: O projeto foi feito usando ide jupyter-notebook.
